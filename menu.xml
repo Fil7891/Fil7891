@@ -47,6 +47,24 @@
       </sizes>
     </beverage>
     <beverage>
+      <name>Hot Chocolate</name>
+      <image>hot_chocolate.jpg</image>
+      <sizes>
+        <size>
+          <type>Small</type>
+          <price>$3.50</price>
+        </size>
+        <size>
+          <type>Regular</type>
+          <price>$4.00</price>
+        </size>
+        <size>
+          <type>Large</type>
+          <price>$4.50</price>
+        </size>
+      </sizes>
+    <beverage>
+    <beverage>
       <name>Soda</name>
       <price>$3.00</price>
       <image>soda.jpg</image>
