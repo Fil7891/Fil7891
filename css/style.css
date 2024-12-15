@@ -149,7 +149,7 @@ button:hover {
     gap: 20px;
 }
 
-li {
+ul.menuItems > li {
     background-color: #704307;
     border: 1px solid #ddd;
     border-radius: 8px;
@@ -159,7 +159,7 @@ li {
     transition: transform 0.3s, box-shadow 0.3s;
 }
 
-li:hover {
+ul.menuItems > li:hover {
     transform: translateY(-5px);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
@@ -169,4 +169,11 @@ li:hover {
     height: auto;
     border-radius: 4px;
     margin-bottom: 15px;
+}
+
+/* Add new media query for .info-section on mobile devices */
+@media screen and (max-width: 600px) {
+    .info-section {
+        flex-flow: column;
+    }
 }
