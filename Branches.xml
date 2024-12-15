@@ -1,8 +1,8 @@
 <branches>
   <branch>
     <name>Main Branch</name>
-    <address>123 Coffee St, Brisbane, QLD</address>
-    <phone>+61 7 1234 5678</phone>
+    <address>76 Devonshire St, Surry Hills NSW</address>
+    <phone>+61  02 9211 1234</phone>
     <hours>
       <day>Monday-Friday</day>
       <time>8:00 AM - 8:00 PM</time>
@@ -10,8 +10,8 @@
   </branch>
   <branch>
     <name>City Branch</name>
-    <address>456 Market Rd, Brisbane, QLD</address>
-    <phone>+61 7 8765 4321</phone>
+    <address>451 Pitt St, Haymarket Sydney, NSW</address>
+    <phone>+61 02 9262 5678</phone>
     <hours>
       <day>Monday-Sunday</day>
       <time>9:00 AM - 10:00 PM</time>
@@ -19,8 +19,8 @@
   </branch>
   <branch>
     <name>West End Branch</name>
-    <address>789 West End Rd, Brisbane, QLD</address>
-    <phone>+61 7 1122 3344</phone>
+    <address>31 Alfred Street, Circular Quay, NSW</address>
+    <phone>+61 Contact: 02 8971 9101</phone>
     <hours>
       <day>Monday-Saturday</day>
       <time>8:00 AM - 9:00 PM</time>
